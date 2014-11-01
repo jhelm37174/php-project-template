@@ -1,4 +1,6 @@
 default:
  - 'jasmine'
  - 'phpunit'
+ - 'jscs'
+ - 'jshint'
 
