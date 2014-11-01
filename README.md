@@ -8,7 +8,7 @@ This space contains a basic setup for PHP projects. The idea is to fork this pro
 The main objective of the repo is to provide a structure which already has grunt tasks pre-defined for a variety of tasks including linting and unit testing.
 
 ##Installed Grunt Packages
-===========
+=======
 
 General:
 - grunt
@@ -43,7 +43,7 @@ Performance Testing:
 
 
 ##Notes:
-=============
+=========
 There is some issue with yslow and time-grunt. If tests do not complete remove time-grunt from gruntfile.js
 
 Some example files are included to show how the unit tests need to be structured for both php and js. These are called example.* and example.spec.*.
