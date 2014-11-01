@@ -4,7 +4,7 @@ module.exports = function (grunt) {
       src: './htdocs/src/*.js',
       options: {
         specs: './specs/js/*.spec.js',
-        keepRunner: true
+        keepRunner: false
       }
     }
   };
