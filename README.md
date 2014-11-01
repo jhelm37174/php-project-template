@@ -1,5 +1,5 @@
 #Overview
-==================
+
 
 ** work in progress - not ready for use! **
 
@@ -9,7 +9,7 @@ The main objective of the repo is to provide a structure which already has grunt
 
 
 ##Installed Grunt Packages
-==================
+
 
 General:
 - grunt
@@ -44,7 +44,7 @@ Performance Testing:
 
 
 ##Notes:
-==================
+
 
 There is some issue with yslow and time-grunt. If tests do not complete remove time-grunt from gruntfile.js
 
