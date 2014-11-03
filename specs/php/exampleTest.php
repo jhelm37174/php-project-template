@@ -1,5 +1,6 @@
 <?php
-class BeautifyTest extends PHPUnit_Framework_TestCase
+//An example of test cases for the exampleFunction
+class exampleFunction extends PHPUnit_Framework_TestCase
 {
   public function test_exampleFunction()
   {
@@ -15,6 +16,4 @@ class BeautifyTest extends PHPUnit_Framework_TestCase
   {
     $this->assertTrue(exampleFunction(1,1,1) == 3);
   }
-
 }
-
